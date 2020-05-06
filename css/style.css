@@ -1,0 +1,11 @@
+form{
+    max-width: 1000px;
+    margin: auto;
+}
+
+#tasks{
+    font-size: xx-large;
+    color: chartreuse;
+    text-align: center;
+    padding-top: 3;
+}
